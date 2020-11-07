@@ -6,6 +6,6 @@
   2. Improve the sampling algorithm to alleviate the problem of holes in the reconstructed surface caused by inputting large-resolution voxels.
  #### RESULT
  ##### 1. IN-MET RESULT 
-  ![IM-NET RESULT](images/IM-NET-RESULT.png )
+  ![IM-NET RESULT](https://github.com/jinghuan-Chen/Implict-3D-Reconstruct/blob/master/images/IM-NET-RESULT.png)
  ##### 2. BAE-MET RESULT 
-  ![BAE-NET RESULT](images/BAE-NET-RESULT.png )
+  ![BAE-NET RESULT](https://github.com/jinghuan-Chen/Implict-3D-Reconstruct/blob/master/images/BAE-NET-RESULT.png)
